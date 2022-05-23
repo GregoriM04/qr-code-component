@@ -23,7 +23,7 @@ Added a screenshot of my solution. As you can see, this is the closer I got to t
 ### Links
 
 - Solution URL: [This is the solution](https://github.com/GregoriM04/qr-code-component)
-- Live Site URL: [Link to live site](https://your-live-site-url.com)
+- Live Site URL: [Link to live site](https://gregorim04.github.io/qr-code-component/)
 
 
 ## My process
@@ -39,7 +39,7 @@ I first started umdertanding the guidelines given in Frontend Mentor's page, the
 
 ### What I learned
 
-I have learned that in some cases simpler is better; but that does not mean to forget about the details. So, it important to meet a good balance between simplicity and lushness when designing.
+I have learned that in some cases simpler is better; but that does not mean to forget about the details. So, it's important to meet a good balance between simplicity and lushness when designing.
 
 
 ## Author

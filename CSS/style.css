@@ -19,7 +19,7 @@
 }
 
 h3 {
-    font-weight: 300;
+    font-weight: 700;
 }
 
 p {
@@ -64,7 +64,6 @@ body {
     color: var(--dark-blue);
     min-width: 100%;
     font-size: 20px;
-    font-weight: 800;
 }
 
 .texts>p {
@@ -83,4 +82,12 @@ body {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+
+/* ======= Media Query ======== */
+@media (min-width:1300px) {
+    .container {
+        margin-top: 90px;
+    }
 }

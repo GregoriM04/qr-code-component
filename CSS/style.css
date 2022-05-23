@@ -1,0 +1,86 @@
+/* FONT USED */
+@import url(https://fonts.google.com/specimen/Outfit);
+
+
+/* COLORS USED */
+:root {
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+/* GENERAL STYLE */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+h3 {
+    font-weight: 300;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+/* MAIN STYLE */
+body {
+    background-color: var(--light-gray);
+}
+
+.container {
+    background-color: var(--white);
+    max-width: 320px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.qr_image {
+    padding: 5px;
+}
+
+.qr_image img {
+    width: 290px;
+    border-radius: 10px;
+}
+
+.texts {
+    width: 322px;
+    text-align: center;
+    padding: 20px;
+}
+
+.texts>h3 {
+    color: var(--dark-blue);
+    min-width: 100%;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.texts>p {
+    color: var(--grayish-blue);
+    min-width: 100%;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+/* FOOTER STYLE */
+.attribution { 
+    padding-top: 5px;
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

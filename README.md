@@ -46,4 +46,4 @@ I have learned that in some cases simpler is better; but that does not mean to f
 
 - LinkedIn - [Gregori Martinez](https://www.linkedin.com/in/gregorim04/)
 - Frontend Mentor - [@GregoriM04](https://www.frontendmentor.io/profile/GregoriM04)
-- Twitter - [@GregoriM04](https://www.twitter.com/yourusername)
+- Twitter - [@GregoriM04](https://www.twitter.com/https://twitter.com/GregoriM04)
